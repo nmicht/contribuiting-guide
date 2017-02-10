@@ -8,16 +8,16 @@ To contribute to this API, please be sure to have the following technologies:
 
 
 #### Table of contents
-[Pull Requests](#pull-requests)
-[Tests](#tests)
-[Styleguides](#styleguides)
+* [Pull Requests](#pull-requests)
+* [Tests](#tests)
+* [Styleguides](#styleguides)
   * [Git Commit Messages](#git-commit-messages)
   * [Specs Styleguide](#specs-styleguide)
   * [Coding Styleguide](#coding-styleguide)
   * [Documentation Styleguide](#documentation-styleguide)
 
 
-## Pull Request
+## Pull Requests
 [GitHub pull requests](https://help.github.com/articles/using-pull-requests) are a great way for team to contribute to this API.
 
 In order to keep the codebase clean, stable and at high quality, some guidelines are necessary for high-quality pull requests:
