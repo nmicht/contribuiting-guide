@@ -69,6 +69,7 @@ We have a pre-commit hook to make sure code is formatted properly and vetted bef
 
 ### Documentation Styleguide
 * Use [PHPDoc](https://www.phpdoc.org/docs/latest/references/phpdoc/basic-syntax.html).
+* Remember to use PHP7 type hinting
 
 #### Example
 
