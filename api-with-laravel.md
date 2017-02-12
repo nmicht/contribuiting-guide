@@ -30,8 +30,7 @@ guidelines are necessary for high-quality pull requests:
 - **Select your merge target** Unless they are immediate documentation fixes
 relevant for old versions, pull requests should be sent to the `dev` branch
 only.
-Make sure to select the correct branch according to our
-[Gitflow Workflow](https://docs.google.com/a/allbound.com/document/d/1xQVn5zBZVppiP5AF2XcLiu0VuSQFTReb6grNFoKYdyw/edit?usp=sharing)
+Make sure to follow [Gitlab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/) and select the correct branch as target when creating the pull request (GitHub will not automatically select it.)
 as target when creating the pull request.
 - **Provide a general summary** of the changes you've made in 1-3 sentences
 - **Provide specific summaries in check-list format** (skip any that do not
