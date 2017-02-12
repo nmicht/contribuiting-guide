@@ -1,10 +1,8 @@
 # Contribution Guidelines
 
-To contribute to this API, please be sure to have the following technologies:
-- [PHP 7](http://php.net/manual/en/install.php)
-- [Laravel 5.4](https://laravel.com/docs/5.4)
-- [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
-- MySQL
+The following is a set of guidelines for contributing to this API. These are 
+just guidelines, not rules. Use your best judgment, and feel free to propose 
+changes to this document in a pull request.
 
 
 #### Table of contents
