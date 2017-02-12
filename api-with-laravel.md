@@ -2,7 +2,7 @@
 
 To contribute to this API, please be sure to have the following technologies:
 - [PHP 7](http://php.net/manual/en/install.php)
-- [Laravel 5.4](https://laravel.com/docs/5.4).
+- [Laravel 5.4](https://laravel.com/docs/5.4)
 - [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 - MySQL
 
