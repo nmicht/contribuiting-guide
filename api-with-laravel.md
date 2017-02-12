@@ -98,6 +98,8 @@ description
 * Use [Swagger specification](http://swagger.io/specification/) to create API
 specs.
 
+We will not approve pull requests if documentation in swagger is not updated.
+
 ### Branch Styleguide
 
 Attempt to name your branches in a sensible way, and prefix the branch name
