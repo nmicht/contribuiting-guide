@@ -89,7 +89,7 @@ class FooTest extends ApiTestCase
 Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-* Limit the first line to 72 characters or less
+* Limit the first line to 50 characters or less
 * Reference issues and pull requests liberally
 * When only changing documentation, include `[ci skip]` in the commit
 description
